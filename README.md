@@ -6,9 +6,9 @@
 ![image](https://github.com/mhalqahtani/matchFinderFinalVersiontset/assets/144021434/2058ac41-9932-4ddd-a17e-6e920bcc61bd)
 
 
-Mohammed Alqahtani 2037206
+Mohammed Alqahtani 
 
-Abdullah Alharthi 2035071
+Abdullah Alharthi 
 ## Introduction
 
 Through the Java command line, Our project uses the API-FOOTBALL from the Rapid website to fetch live football match data for major leagues. Using the Observer design pattern, updates are sent to users via SMS via the Twilio API. The Abstract Factory pattern is used for creating observers, enhancing modularity and extensibility.
@@ -56,6 +56,12 @@ The smsSender class facilitates sending SMS messages using the Twilio API. It in
 ## output
 ![image](https://github.com/mhalqahtani/matchFinderFinalVersiontset/assets/144021434/92902cca-31d0-4b0c-9392-0c96e9e939de)
 
-
-
 as we can see here are the matches for the most important leagues and it is updated it depends on the day you request the service.
+
+
+
+##APIs
+
+https://rapidapi.com/api-sports/api/api-football 
+
+https://www.twilio.com/en-us/messaging/channels/sms
